@@ -27,6 +27,11 @@ The main objectives of this project were to:
 - Generate gene-level datasets for downstream biological interpretation.
 
 ---
+## Analysis Workflow
+
+The overall transcriptomic analysis workflow is summarized below.
+
+![Transcriptomic Analysis Workflow](results/figures/Workflow.png)
 ## Dataset
 
 The primary expression dataset used in this analysis was obtained from the NCBI Gene Expression Omnibus (GEO), accession **GSE204857**.
