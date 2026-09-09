@@ -32,6 +32,7 @@ The main objectives of this project were to:
 The overall transcriptomic analysis workflow is summarized below.
 
 ![Transcriptomic Analysis Workflow](results/figures/Workflow.png)
+
 The computational workflow consisted of the following major stages:
 
 1. Transcriptomic data preparation and preprocessing
